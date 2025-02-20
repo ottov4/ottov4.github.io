@@ -172,3 +172,9 @@ body .container .card:hover .sci li {
   transform: translateY(0px);
   opacity: 1;
 }
+.card .logo img {
+ width: 50px; /* ajusta el tamaño del logo */
+ height: auto;
+ margin: 0 auto 10px; /* centra y no se que mas era*/
+ display: block;
+}
